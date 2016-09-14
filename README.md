@@ -1,2 +1,4 @@
 # camel-in-action-book
-Camel In Action - Manning
+This repo contains a PDF version of the Manning "Camel In Action" book. 
+
+Enjoy :D
